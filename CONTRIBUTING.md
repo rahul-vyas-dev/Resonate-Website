@@ -53,28 +53,28 @@ Follow these steps to contribute code:
    git checkout -b fix/bug-description
    ```
 
-4. **Install dependencies**
+5. **Install dependencies**
    ```bash
    npm install
    ```
 
-5. **Make your changes**
+6. **Make your changes**
    - Edit files as needed
    - Ensure your code follows the existing style
    - Test your changes locally
 
-6. **Run the development server**
+7. **Run the development server**
    ```bash
    npm start
    ```
    The app will run at `http://localhost:3000`
 
-7. **Test your changes**
+8. **Test your changes**
    ```bash
    npm test
    ```
 
-8. **Build the project** ( compulsory to test production build)
+9. **Build the project** ( compulsory to test production build)
    ```bash
    npm run build
    ```
